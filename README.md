@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @gv2325
-- 👀 I’m interested in building tools for our cities
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate at the intersection of the built environment and technology
-- 📫 How to reach me email!
+Hi I am George Verghese
+
+An urbanist - technologist with experience in geospatial analytics
+
+Reach me via 
+gv2325@columbia.edu
 
 <!---
 gv2325/gv2325 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
