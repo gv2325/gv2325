@@ -12,7 +12,7 @@ Fun python ibraries for geospatial analysis
 -  `cenpy` `pygris` `sodapy`
 
 Reach me via 
-gv2325@columbia.edu
+v.george@columbia.edu
 
 <!---
 gv2325/gv2325 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
