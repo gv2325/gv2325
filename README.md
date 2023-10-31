@@ -14,7 +14,7 @@ Fun python ibraries for geospatial analysis:
 Interests: `kayaking` `cycling` `3d printing` `urban policy` `urban innovation` `startups` `design thinking`
 
 Reach me via 
-`v.george@columbia.edu`
+v.george@columbia.edu
 
 <!---
 gv2325/gv2325 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
