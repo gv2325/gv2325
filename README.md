@@ -1,6 +1,30 @@
-Hi I am George Verghese
+Hi I am George
 
-An urbanist - technologist with experience in geospatial analytics
+An urbanist - technologist with a passion for geospatial analytics. 
+At present I am working on siting curbside ev chargers for NYC through a multi tier analysis
+
+My current tech stack:
+-  Python
+-  PostgreSQL
+-  PostGIS
+-  Git
+-  Next.js
+-  Sanity
+-  React
+-  Svelte
+-  Mapbox.js
+-  HTML5
+-  Tailwind CSS
+-  Javascript
+-  ESRI - ArcGIS Pro, ArcGIS Online, ArcGIS Enterprise, ArcMap
+-  QGIS
+-  Crunchy Data
+-  GCP - BigQuery
+-  Carto
+
+Fun Python Libraries for geospatial analysis
+-  geopandas, altair, kepler.gl
+-  cenpy, pygris, sodapy
 
 Reach me via 
 gv2325@columbia.edu
