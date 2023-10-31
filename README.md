@@ -19,7 +19,7 @@ My current tech stack:
 -  ESRI - ArcGIS Pro, ArcGIS Online, ArcGIS Enterprise, ArcMap
 -  QGIS
 -  Crunchy Data
--  GCP - BigQuery, 'Carto'
+-  GCP - BigQuery, `Carto`
 
 Fun Python Libraries for geospatial analysis
 -  geopandas, altair, kepler.gl
