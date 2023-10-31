@@ -16,7 +16,7 @@ My current tech stack:
 -  HTML5
 -  Tailwind CSS
 -  Javascript
--  ``ESRI` `ArcGIS Pro`, `ArcGIS Online`, `ArcGIS Enterprise`, `ArcMap``, `QGIS`, `Crunchy Data`, `Carto`
+-  `ESRI `ArcGIS Pro`, `ArcGIS Online`, `ArcGIS Enterprise`, `ArcMap``, `QGIS`, `Crunchy Data`, `Carto`
 
 Fun Python Libraries for geospatial analysis
 -  geopandas, altair, kepler.gl
