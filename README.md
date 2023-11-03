@@ -7,7 +7,7 @@ My current stack:
 -  `Python` `PostgreSQL` `PostGIS` `Git` `Next.js` `Sanity` `React` `Svelte` `Mapbox.js` `HTML5` `Tailwind CSS` `Javascript`
 -  `ArcGIS Pro` `ArcGIS Online` `ArcGIS Enterprise` `ArcMap` `QGIS` `Crunchy Data` `Carto`
 
-Fun python ibraries for geospatial analysis:
+Fun python libraries for geospatial analysis:
 -  `geopandas` `altair` `kepler.gl`
 -  `cenpy` `pygris` `sodapy`
 
