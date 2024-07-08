@@ -1,7 +1,7 @@
 Hi I am George
 
 An urbanist - technologist with a passion for geospatial analytics. 
-At present I am working on siting curbside ev chargers for NYC through a multi tier analysis, I enjoy working intersecting critical social thinking and utilising geospatial tools to uncover insights. 
+At present I am working on siting curbside ev chargers for NYC through a multi tier analysis, I enjoy working at the intersection of critical social thinking and utilising geospatial tools to uncover insights. 
 
 My current stack:
 -  `Python` `PostgreSQL` `PostGIS` `Git` `Next.js` `Sanity` `React` `Svelte` `Mapbox.js` `HTML5` `Tailwind CSS` `Javascript`
