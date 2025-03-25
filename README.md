@@ -1,6 +1,6 @@
 Hi I am George
 
-Currently @NASA SEDAC and @CIESIN
+Currently @ciesin
 
 An urbanist - technologist with a passion for geospatial analytics. 
 I have worked on siting curbside ev chargers for NYC through a multi tier analysis, I enjoy working at the intersection of critical social thinking and utilising geospatial tools to uncover insights. 
